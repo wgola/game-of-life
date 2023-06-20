@@ -1,4 +1,4 @@
-package ganeoflife
+package gameoflife
 
 import (
 	"math/rand"

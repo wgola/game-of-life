@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	ganeoflife "game-of-life/ganeOfLife"
+	ganeoflife "game-of-life/gameOfLife"
 	sdlwrapper "game-of-life/sdlWrapper"
 	"time"
 
