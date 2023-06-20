@@ -1,5 +1,7 @@
 ## Game of Life
 
+![](gof.gif)
+
 This repository contains my implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) written in [Go](https://go.dev/).
 It uses [SDL2](https://www.libsdl.org/) to render the simulation inside a window. You can run this app using following command:
 
